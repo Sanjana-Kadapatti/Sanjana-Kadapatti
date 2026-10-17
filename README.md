@@ -3,13 +3,13 @@
 
 <p align="center">A passionate Computer Science Engineering Graduate | Software Engineer</p>
 
-<p>- 📧 Email me: [kadapattisanjana@gmail.com](mailto:kadapattisanjana@gmail.com) for collaborations and opportunities.</p>
-<p>- 🔭 I'm interested in: Software development, AI-powered applications, and automation.</p>
-<p>- 🌱 I'm currently learning: Data Structures & Algorithms, AI, and backend development.</p>
-<p>- 💼 My experience: Software Engineer Trainee at Cisco, building Python automation, IOS-XR tools, and AI-assisted code documentation.</p>
-<p>- 💬 Ask me about: Python, Java, DSA, Software Development, Automation, and AI applications.</p>
-<p>- 🏆 Highlights: Cisco Play to Win Award, Published a research paper on “AI-driven intent-aware code documentation” in Cisco’s proprietary “Qubit” platform, Received KSCST sponsorship for E-Fy – A Techtainment Book</p>
-<p>- Fun fact: I enjoy turning complex technical problems into simple, practical solutions.</p>
+<p>📧 Email me: <a href="mailto:kadapattisanjana@gmail.com">kadapattisanjana@gmail.com</a> for collaborations and opportunities.</p>
+<p>🔭 I'm interested in: Software development, AI-powered applications, and automation.</p>
+<p>🌱 I'm currently learning: Data Structures & Algorithms, AI, and backend development.</p>
+<p>💼 My experience: Software Engineer Trainee at Cisco, building Python automation, IOS-XR tools, and AI-assisted code documentation.</p>
+<p>💬 Ask me about: Python, Java, DSA, Software Development, Automation, and AI applications.</p>
+<p>🏆 Highlights: Cisco Play to Win Award, Published a research paper on “AI-driven intent-aware code documentation” in Cisco’s proprietary “Qubit” platform, Received KSCST sponsorship for E-Fy – A Techtainment Book</p>
+<p>⚡Fun fact: I enjoy turning complex technical problems into simple, practical solutions.</p>
 
 ### 📊 GitHub Stats
 
