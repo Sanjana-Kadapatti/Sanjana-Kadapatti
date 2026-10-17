@@ -1,7 +1,7 @@
 
 <h1 align="center">💫 Hi 👋, I'm Sanjana Kadapatti</h1>
 
-<p align="center">Computer Science Engineering Graduate | Software Engineer</p>
+<p align="center">a passionate Computer Science Engineering Graduate | Software Engineer</p>
 
 - 📧 Email me: [kadapattisanjana@gmail.com](mailto:kadapattisanjana@gmail.com) for collaborations and opportunities.
 - 🔭 I'm interested in: Software development, AI-powered applications, and automation.
@@ -14,12 +14,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjanak24&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics for sanjanak24" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanak24&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages for sanjanak24" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sanjana-Kadapatti&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics for Sanjana-Kadapatti" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana-Kadapatti&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages for Sanjana-Kadapatti" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanjanak24&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for sanjanak24" />
+  <img src="https://streak-stats.demolab.com?user=Sanjana-Kadapatti&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for Sanjana-Kadapatti" />
 </p>
 
 ### 🤝 Connect With Me
@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/sanjana-kadapatti-92a793217/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/sanjanak24/" target="_blank">
+  <a href="https://github.com/Sanjana-Kadapatti/" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
   </a>
 </p>
