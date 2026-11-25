@@ -3,19 +3,19 @@
 
 <p align="center">A passionate Computer Science Engineering Graduate | Software Engineer</p>
 
-<p>📧 Email me: <a href="mailto:kadapattisanjana@gmail.com">kadapattisanjana@gmail.com</a> for collaborations and opportunities.</p>
-<p>🔭 I'm interested in: Software development, AI-powered applications, and automation.</p>
-<p>🌱 I'm currently learning: Data Structures & Algorithms, AI, and backend development.</p>
-<p>💼 My experience: Software Engineer Trainee at Cisco, building Python automation, IOS-XR tools, and AI-assisted code documentation.</p>
-<p>💬 Ask me about: Python, Java, DSA, Software Development, Automation, and AI applications.</p>
+<p>📧 Email me: <a href="mailto:sanjusk7584@gmail.com">sanjusk7584@gmail.com</a> for collaborations and opportunities.</p>
+<p>🔭 I'm interested in: Python automation, backend development, RAG applications, Gen AI, and agentic AI systems.</p>
+<p>🌱 I'm currently learning: Agentic AI, RAG architectures, embeddings, vector databases, and Spring-based backend development.</p>
+<p>💼 My experience: Software Engineer Trainee at Cisco, building Python automation, IOS-XR tools, SIM topology workflows, and AI-assisted code documentation.</p>
+<p>💬 Ask me about: Python, Java, Spring Boot, SQL, RAG, LLM applications, n8n, automation, and Git/GitHub workflows.</p>
 <p>🏆 Highlights: Cisco Play to Win Award, Published a research paper on “AI-driven intent-aware code documentation” in Cisco’s proprietary “Qubit” platform, Received KSCST sponsorship for E-Fy – A Techtainment Book</p>
 <p>⚡Fun fact: I enjoy turning complex technical problems into simple, practical solutions.</p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sanjana-Kadapatti&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics for Sanjana-Kadapatti" /> -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana-Kadapatti&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages for Sanjana-Kadapatti" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sanjana-Kadapatti&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics for Sanjana-Kadapatti" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana-Kadapatti&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Programming languages used by Sanjana-Kadapatti" />
 </p>
 
 <p align="center">
