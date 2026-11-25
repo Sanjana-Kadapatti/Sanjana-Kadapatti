@@ -14,7 +14,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sanjana-Kadapatti&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics for Sanjana-Kadapatti" />
+  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sanjana-Kadapatti&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics for Sanjana-Kadapatti" /> -->
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana-Kadapatti&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Programming languages used by Sanjana-Kadapatti" />
 </p>
 
